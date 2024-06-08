@@ -22,8 +22,6 @@ for i in range(n):
       dq.append((i,j,0)) #딱따구리 위치, 거리
       arr[i][j] = 1
 
-
-
 '''
 def bfs(x,y,arr):
 
