@@ -11,7 +11,7 @@ for _ in range(N-1):
 q = int(input())
 cnt = 0
 for _ in range(q):
-  t,k = map(int,input().split())
+  t,k = map(int,sys.stdin.readline().split())
   if t == 1 :
     # k 번째 정점이 단절점인지
     if len(tree[k]) < 2:
