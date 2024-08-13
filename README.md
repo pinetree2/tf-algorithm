@@ -13,3 +13,11 @@
 - https://www.acmicpc.net/problem/1991
 - https://www.acmicpc.net/problem/14675
 - https://www.acmicpc.net/problem/17129
+
+> 6월 3주차 : 쉼
+> 6월 4주차 : BFS,DFS
+골드 5 - 숨바꼭질 3 (#13549)
+실버 1 - 숨바꼭질 (#1697)
+실버 2 - 단지번호 붙이기 (#2667)
+골드 2 - 벽부수고 이동하기 4 (#16946)
+골드 3 - 다리만들기 (#2146)
