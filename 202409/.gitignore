@@ -1,0 +1,6 @@
+.cache
+.upm
+.replit
+poestry.lock
+pyproject.toml
+replit_zip_error_log.txt

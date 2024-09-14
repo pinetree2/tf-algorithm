@@ -2,6 +2,7 @@ import sys
 N,K = map(int,sys.stdin.readline().split())
 arr = [list(map(int,sys.stdin.readline().split())) for _ in range(N)]
 
+# 맨밑에있는말인지확인
 # 말의 정보는 세개의 정수 행, 열 번호, 이동방향(r,c,d )
 horse = [list(map(int,sys.stdin.readline().split())) for _ in range(K)]
 

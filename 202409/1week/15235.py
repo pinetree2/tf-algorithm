@@ -6,6 +6,7 @@ arr= list(map(int,sys.stdin.readline().split()))
 i = 0
 time =0
 answer = [0]*N
+
 #enumrate 가 리스의 모든 인덱스를 차례대로 순회하기 때문에 인덱스 증감을 수동으로 처리하지 않아도 된다.
 while any(value > 0 for value in arr):
   for idx, value in enumerate(arr): 
