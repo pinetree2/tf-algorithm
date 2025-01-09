@@ -50,10 +50,10 @@ def solution(files):
 
     return answer
 
----
-이 모든게 정규 표현식을 쓰면 쉽게 해결된다.
-근데 난 정규표현식 진짜.. 어렵다... 쉣!
-```python
+#---
+#이 모든게 정규 표현식을 쓰면 쉽게 해결된다.
+#근데 난 정규표현식 진짜.. 어렵다... 쉣!
+
 import re
 
 def solution(files):
