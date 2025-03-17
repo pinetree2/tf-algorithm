@@ -4,7 +4,7 @@ N,M = map(int,sys.stdin.readline().split())
 A = list(map(int,sys.stdin.readline().split()))
 B = list(map(int,sys.stdin.readline().split()))
 
-# 두 배ㄹ이 정렬되어있기 때문에, 두개의 포인터를 사용해서 비교하며 새로운 배열을 만든다. 
+# 두 배열이 정렬되어있기 때문에, 두개의 포인터를 사용해서 비교하며 새로운 배열을 만든다. 
 i,j =0,0
 result = []
 

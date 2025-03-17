@@ -12,6 +12,9 @@
 
 [참고 링크](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Algorithm/%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 
-### 내일 Todo
+### 0317 Todo
 - 2시간 잡고 투포인터 3문제 풀기 (코테 대비)
 - 못풀면 못푸는대로 
+![alt text](image.png)
+- 90분가량 3문제를 봄. 
+- 오답을 한 30분 함 
